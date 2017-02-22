@@ -1,0 +1,82 @@
+Continuous Deployment	Techniques	Dauer eines Deployments dauert maximal 5 Minuten	1.0
+All API's can be published	Techniques	Services sind: Resilient, Scalable, Stateless	0.1			
+You build it, You run it.	Techniques	Services könne innerhalb eines Teams ohne Zuarbeit durch Betrieb / QA erstellt und hochwertig betrieben werden. 	0.9			
+Metriken mit klaren Aussagen	Techniques		1.5			
+Qualität ist Teamverantwortung	Techniques		0.5			
+Stabilität ist Teamverantwortung	Techniques		0.1			
+Resilient Engineering	Techniques	"deal with failures"	0.3			
+Documented API Arcitecture	Techniques	Jeder Service besitzt eine Schnittstelle, über die er mit anderen Services kommuniziert. && Services sind abwärtskompatibel	0.5
+JAVA	Languages		2.0
+Kotlin	Languages		0.5
+JS	Languages		2.0			
+TypeScript	Languages		1.0			
+Objective-C	Languages		2.0			
+Swift	Languages		1.6			
+ActionScript	Languages		2.0			
+Ruby	Languages		1.8			
+CoffeeScript	Languages		1.5			
+Groove	Languages		1.5			
+HTML 5 / CSS	Languages		2.0			
+Bash	Languages		1.8			
+Perl	Languages		1.6			
+GO	Languages		1.5			
+Closure	Languages		1.5			
+Oracle	Frameworks & Tools		2.0			
+PostgreSQL	Frameworks & Tools		1.7			
+MongoDB	Frameworks & Tools		1.8			
+Solr	Frameworks & Tools		2.0			
+ElasticSearch	Frameworks & Tools		2.0			
+Splunk	Frameworks & Tools		2.0			
+Kafka	Frameworks & Tools		-0.3			
+Neo4j	Frameworks & Tools		-1.4			
+Graphite	Frameworks & Tools		1.7			
+JIRA / Confluence	Frameworks & Tools		2.0			
+Docker	Platforms & Infrastructure		2.0			
+Kubernetes	Platforms & Infrastructure		1.0			
+AWS - EC2	Platforms & Infrastructure		1.5			
+TomCat	Platforms & Infrastructure		2.0			
+Consul	Platforms & Infrastructure		0.0			
+ServerSpec	Platforms & Infrastructure		2.0			
+Jenkins	Platforms & Infrastructure		2.0			
+Event Storing ???	Platforms & Infrastructure		-1.5			
+QA in Production	Platforms & Infrastructure		-1			
+AWS - Lambda	Platforms & Infrastructure	Push Service	1.5			
+		
+HSTS	Platforms & Infrastructure		0			
+HTTP2	Platforms & Infrastructure		0			
+macOS Build Server	Platforms & Infrastructure		1.7			
+Cucumber	Frameworks & Tools		1.5			
+CoreMedia	Frameworks & Tools		2.0			
+Spring	Frameworks & Tools		2.0			
+MAVEN	Frameworks & Tools		2.0			
+Jangaroo	Frameworks & Tools		1.6			
+Swagger	Frameworks & Tools		0.9			
+Vert.x	Frameworks & Tools		-1.5			
+ReactJS	Frameworks & Tools		0.5			
+CKEditor	Frameworks & Tools		2.0			
+JSP	Frameworks & Tools		2.0			
+NodeJS	Frameworks & Tools		1.5			
+ES6	Frameworks & Tools		-0.2			
+Redux	Frameworks & Tools		0.2			
+Grunt	Frameworks & Tools		1.7			
+Robolectric	Frameworks & Tools		1.6			
+AngularJS 2	Frameworks & Tools		-1.5			
+GraphQL	Frameworks & Tools		-1.0			
+Immutable.js	Frameworks & Tools		0.3			
+WebComponents	Frameworks & Tools		0.8			
+etcd	Frameworks & Tools	distributed kv store	1			
+Chef	Frameworks & Tools	Configuration Management	2			
+Ansible	Frameworks & Tools	Configuration Management	0.3			
+Metrics	Frameworks & Tools	Counting and Measuring	1.8			
+SysDig	Frameworks & Tools	Monitoring	0			
+HashiCorp Vault	Frameworks & Tools	Secrets Store	0			
+Nexpose	Frameworks & Tools	Vulnerability Scanner	1.5			
+AWS - SNS	Frameworks & Tools	Push Service	2			
+Selenium	Frameworks & Tools		1.8			
+ImageMagick	Frameworks & Tools		1.5			
+Webdriver (Chrome FireFox)	Frameworks & Tools		1.7			
+Charles	Frameworks & Tools		1.8			
+Gitflow	Frameworks & Tools		1.5			
+SASS	Frameworks & Tools		2.0			
+Handlebars	Frameworks & Tools		1.7			
+jQuery	Frameworks & Tools		2.0			

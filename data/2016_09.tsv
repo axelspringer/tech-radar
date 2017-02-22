@@ -1,0 +1,71 @@
+JAVA	Languages		2.0			
+Kotlin	Languages		0.5			
+JS	Languages		2.0			
+TypeScript	Languages		1.0			
+Objective-C	Languages		2.0			
+Swift	Languages		1.6			
+ActionScript	Languages		2.0			
+Ruby	Languages		1.8			
+CoffeeScript	Languages		1.5			
+VCL (Varnish configuration Language)	Languages		1.5			
+Groove	Languages		1.5			
+HTML 5 / CSS	Languages		2.0			
+Oracle	Data Mgt		2.0			
+PostgreSQL	Data Mgt		1.7			
+MongoDB	Data Mgt		1.8			
+Solr	Data Mgt		2.0			
+ElasticSearch	Data Mgt		2.0			
+Splunk	Data Mgt		2.0			
+Kafka	Data Mgt		-0.3			
+Neo4j	Data Mgt		-1.4			
+Graphite	Data Mgt		1.7			
+JIRA / Confluence	Data Mgt		2.0			
+Docker	Platforms & Infrastructure		2.0			
+Kubernetes	Platforms & Infrastructure		1.0			
+AWS - EC2	Platforms & Infrastructure		1.5			
+TomCat	Platforms & Infrastructure		2.0			
+Consul	Platforms & Infrastructure		0.0			
+ServerSpec	Platforms & Infrastructure		2.0			
+Jenkins	Platforms & Infrastructure		2.0			
+Event Storing ???	Platforms & Infrastructure		-1.5			
+QA in Production	Platforms & Infrastructure		-1			
+AWS - Lambda	Platforms & Infrastructure	Push Service	1.5			
+Jenkins as a Deployment Pipeline	Platforms & Infrastructure		2			
+HSTS	Platforms & Infrastructure		0			
+HTTP2	Platforms & Infrastructure		0			
+macOS Build Server	Platforms & Infrastructure		1.7			
+Cucumber	Techniques; Frameworks & Tools		1.5			
+CoreMedia	Techniques; Frameworks & Tools		2.0			
+Spring	Techniques; Frameworks & Tools		2.0			
+MAVEN	Techniques; Frameworks & Tools		2.0			
+Jangaroo	Techniques; Frameworks & Tools		1.6			
+Swagger	Techniques; Frameworks & Tools		0.9			
+Vert.x	Techniques; Frameworks & Tools		-1.5			
+ReactJS	Techniques; Frameworks & Tools		0.5			
+CKEditor	Techniques; Frameworks & Tools		2.0			
+JSP	Techniques; Frameworks & Tools		2.0			
+NodeJS	Techniques; Frameworks & Tools		1.5			
+ES6	Techniques; Frameworks & Tools		-0.2			
+Redux	Techniques; Frameworks & Tools		0.2			
+Grunt	Techniques; Frameworks & Tools		1.7			
+Robolectric	Techniques; Frameworks & Tools		1.6			
+AngularJS 2	Techniques; Frameworks & Tools		-1.5			
+GraphQL	Techniques; Frameworks & Tools		-1.0			
+Immutable.js	Techniques; Frameworks & Tools		0.3			
+WebComponents	Techniques; Frameworks & Tools		0.8			
+etcd	Techniques; Frameworks & Tools	distributed kv store	1			
+Chef	Techniques; Frameworks & Tools	Configuration Management	2			
+Ansible	Techniques; Frameworks & Tools	Configuration Management	0.3			
+Metrics	Techniques; Frameworks & Tools	Counting and Measuring	1.8			
+SysDig	Techniques; Frameworks & Tools	Monitoring	0			
+HashiCorp Vault	Techniques; Frameworks & Tools	Secrets Store	0			
+Nexpose	Techniques; Frameworks & Tools	Vulnerability Scanner	1.5			
+AWS - SNS	Techniques; Frameworks & Tools	Push Service	2			
+Selenium	Techniques; Frameworks & Tools		1.8			
+ImageMagick	Techniques; Frameworks & Tools		1.5			
+Webdriver (Chrome FireFox)	Techniques; Frameworks & Tools		1.7			
+Charles	Techniques; Frameworks & Tools		1.8			
+Gitflow	Techniques; Frameworks & Tools		1.5			
+SASS	Techniques; Frameworks & Tools		2.0			
+Handlebars	Techniques; Frameworks & Tools		1.7			
+jQuery	Techniques; Frameworks & Tools		2.0			
