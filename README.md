@@ -21,29 +21,34 @@ and open the `index.html` in your {YOUR-PROJECT-PATH}/tech-radar/ directory
 # 2. How can I update the Tech Radar
 The Tech Radar retrieves the required data from the simple tabular representation's (.tsv data) 
 
-To generate the sources for the Tech Radar, you need to install is `Homebrew/`, `ruby (version <=2.1)` and `liquid`.
-If you have Install all skip to 2.4.
 
-## 2.1 Install Homebrew
+
+## 2.1 Requirements
+
+To generate the sources for the Tech Radar, you need to install is `Homebrew/`, `ruby (version <=2.1)` and `liquid`.
+If you have Install all skip to 2.2.
+
+###For Mac
+#### Install Homebrew
 RUN:
 ````
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ````
 
-## 2.2 Install ruby
+####Install ruby
 RUN:
 ````
 brew install ruby
 ````
 
-## 2.3 Install liquid
+####Install liquid
 RUN:
 ````
 gem install liquid
 ````
 
 
-## 2.4 Make a new simple tabular representation
+## 2.2 Make a new simple tabular representation
 Create a Google doc with the following columns:
 
 * **Technology** (e.g. "Hystrix")
@@ -61,11 +66,11 @@ Note: the score-to-ring mapping we use is not linear:
 		score    2 ----- 1.5 --------------- 0 ---------- -1 ---------- -2
 	  	 ring      ADOPT          TRIAL          ASSESS         HOLD
 
-## 2.5 Import your simple tabular representation
+## 2.3 Import your simple tabular representation
 
 1. Download your (public) googleDoc
 1. rename it to "actuellyear"_"actuellmonth".tsv (e.g. 2017_02.tsv) and move it to the {YOUR-PROJECT-PATH}/tech-radar/data/ directory
-1. run `./generateTechRadar` ({YOUR-PROJECT-PATH}/tech-radar/) to generate a new `radar_data.js`
+1. run `./transform.rb` ({YOUR-PROJECT-PATH}/tech-radar/) to generate a new `radar_data.js`
 1. open `index.html` ({YOUR-PROJECT-PATH}/tech-radar/) in your browser to inspect the result
 1. repeat the last two steps until you're happy with the arrangement :)
 1. check everything in
